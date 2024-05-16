@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\Code\C\howmanyword\howmanyword\bin\Debug\net8.0\howmanyword.exe
+C:\Users\Dell\Desktop\Code\C\howmanyword\howmanyword\bin\Debug\net8.0\howmanyword.deps.json
+C:\Users\Dell\Desktop\Code\C\howmanyword\howmanyword\bin\Debug\net8.0\howmanyword.runtimeconfig.json
+C:\Users\Dell\Desktop\Code\C\howmanyword\howmanyword\bin\Debug\net8.0\howmanyword.dll
+C:\Users\Dell\Desktop\Code\C\howmanyword\howmanyword\bin\Debug\net8.0\howmanyword.pdb
+C:\Users\Dell\Desktop\Code\C\howmanyword\howmanyword\obj\Debug\net8.0\howmanyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Code\C\howmanyword\howmanyword\obj\Debug\net8.0\howmanyword.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Code\C\howmanyword\howmanyword\obj\Debug\net8.0\howmanyword.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Code\C\howmanyword\howmanyword\obj\Debug\net8.0\howmanyword.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Code\C\howmanyword\howmanyword\obj\Debug\net8.0\howmanyword.dll
+C:\Users\Dell\Desktop\Code\C\howmanyword\howmanyword\obj\Debug\net8.0\refint\howmanyword.dll
+C:\Users\Dell\Desktop\Code\C\howmanyword\howmanyword\obj\Debug\net8.0\howmanyword.pdb
+C:\Users\Dell\Desktop\Code\C\howmanyword\howmanyword\obj\Debug\net8.0\howmanyword.genruntimeconfig.cache
+C:\Users\Dell\Desktop\Code\C\howmanyword\howmanyword\obj\Debug\net8.0\ref\howmanyword.dll
